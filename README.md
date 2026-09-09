@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Sayan Koley |
-| **LinkedIn** | [sayan-koley](www.linkedin.com/in/sayan-koley-819aa3329) |
+| **LinkedIn** | [sayan-koley](https://www.linkedin.com/in/sayan-koley-819aa3329/) |
 | **Location** | Howrah, India |
 | **Background** | Android Developer, DevOps + Cloud Engineer |
 | **Goal** | Create and Deploy apps |
