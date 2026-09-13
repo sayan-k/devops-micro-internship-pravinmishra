@@ -14,7 +14,7 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 
 Write a clear ChatGPT prompt to help you understand:
 
-> "What is a protocol in networking? Explain with a simple real-life example."
+> "Hello, I just started my DevOps Micro Internship from DMI Campus . I am a completely beginner in this field. So, i need your help to understand basic concepts. In the answers i need completely beginner level words and simple explanations of the topic that provide a clear thought of the topic. Also, add a very simple real life example corresponding of the topic- My first question is: What is a protocol in networking? Explain with a simple real-life example. "
 
 Take a screenshot of your interaction showing:
 
@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![ Task 1 Screenshot ](screenshots\screenshot1.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Like human beings computers communicates with another computers with a language and some set of rules, this set of rules is called a Protocol. Protocols have communication establishing rules and communication ending rules like humans' "Hello"(for starting a conversation) and "Good bye" (for ending the conversation). 
 
 ---
 
@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+A client (somewhere in the world) browse in google browser about Epicreads website write-"epicreads.com". The client request is processed in DNS server for creating a link between the client and the epicreads portal. When the DNS done with processing it establishes the connection. Then the client send a message to the epicreads server to access a file. Here comes the packet switching concept- the message is divided into two or more small packets. Then these packets are transfered by the internet throuhg routers. These data packets can take different routing paths to reach the server. Here the network use TCP/IP protocols to manage the safe transfer of the message. TCP is used to rearrange the data packets that are excepted by the server with it's in order transmission characteristic. IP protocol helps to smoothly move these packets thorugh network. Now, in Finland the message is process this request using HTTPs protocol for security checking. After the response it uses HTTPs again to send the response for this request. Again packet switching is used to send the data from server to the client. TCP/IP protocols are used to secure tansfer process. When the user receive the data and after processing the data it sends an acknowledge message to the server (if it use the TCP protocol). If the client closes the browser the link with the server is closed in the internet. 
 
 ---
 
@@ -91,7 +91,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots\screenshot2.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +102,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML
+CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node js
+Express js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MongoDB
+MySQL
 
 ---
 
@@ -142,7 +142,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System (DNS) converts the domains name like "epicreads.com" which is easy to remember to the humans into numerical IP address understanble by the computers. So a client can only remeber the name of the website or the domain "epicreads.com" insted of the numerical IP address which is hard to remember. This DNS makes the mode of web browsing easy. DNS is basically the phonebook of the internet which is managed by International organization of the internet. 
+
+In this process an A Record should be used as it is specifically designed to connect domain name to an IP Address. But the :3000 part is the port number managed by the computers application manager it indicates the internet channel through which the running application is communicating with the epicread.com server. 
 
 ---
 
@@ -178,7 +180,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots\screenshot3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -237,7 +239,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7504893678612602880-QI-7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM
 ```
 
 ---
@@ -246,27 +248,51 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 | My DevOps Learning Journey
+I’ve completed my DevOps Micro Internship (DMI) journey, and Week 00 assignment designed by Pravin Mishra sir. It helped me build a strong foundation in Internet & Networking.
 
+Here’s what I learned:
+
+💬 ChatGPT
+Learned how to use AI as a learning assistant to understand technical concepts in a beginner-friendly way.
+
+🌐 Internet & Networking
+Explored networking protocols, packet switching, IP addresses, TCP/IP, and HTTP/HTTPS, and understood how a website can be accessed globally.
+
+🏗️ App Architecture
+Learned the basics of 2-tier and 3-tier architecture and the role of Frontend, Backend, and Database.
+
+🔗 DNS
+Understood how DNS converts a domain name into an IP address and learned why an A record is used for an IPv4 address.
+
+💻 VS Code Setup
+Set up my development environment and practiced using the integrated terminal with basic commands.
+
+This is just the beginning of my DevOps journey, and I’m excited to keep learning, building, and improving every week. 🚀
+hashtag#DevOps hashtag#DMI hashtag#DevOpsMicroInternship hashtag#Networking hashtag#DNS hashtag#CloudComputing hashtag#LearningJourney hashtag#Technology
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gTkisgMM · Start your DevOps journey:https://lnkd.in/g9YuUw2T 
+
+hashtag#DMIByPravinMishra
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+The DNS, Networking Protocols (TCP/IP,HTTPs/HTTP) and packet switching concept
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Application Architectures
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Time management for assignments.
 
 ---
 

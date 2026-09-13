@@ -67,8 +67,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+-- Week 00 → Internet & Networking Basics
+-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 <!-- Week 01 → Success Mindset -->
 <!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics |   🔄 In Progress | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics |   ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7504893678612602880-QI-7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM | https://medium.com/@sayankoley3456/my-overall-experience-in-dmi-campus-micro-internship-first-week-ec6f6c2ce73a |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
