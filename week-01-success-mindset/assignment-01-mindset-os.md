@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+In my opinion career, money, learning, success, life all are connected with each other with a common characteristic called discipline and consistency. "Practice makes man perfect" this line is not just a normal quote, it realy has weights on every word. Practice, hard work, honesty and faith towards self drags a human to the success. The most precious jewel of a human is their health, it may be physical or mental both have to maintained neatly to reach a destination they want to reach. Human beings are social animals. All they want a relationship to live. A healthy relation always pushes a person toward success. People do not care all these necessities together and fails to maintain them simultaneously with efficiency. Here they choke in their path towards success. 
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Time waits for no one. It always flew away.
 
 ### Evidence from my life
 
-Add your answer here...
+If i let an deal go, some one grab it and i will never ever get that in future. 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Only hard work can get every job done.
 
 ### Evidence from my life
 
-Add your answer here...
+If I study hard and prepare my self very well, then I wil get a good job.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+History is the ultimate teacher.
 
 ### Evidence from my life
 
-Add your answer here...
+If I do not learn from my faults from past, I will never able to progress in the life. Every day brings a brand new start. So try to correct yesterday's mistakes makes me bulid more experience in my work life. 
 
 ---
 
@@ -153,13 +153,55 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+What Does My 2.0 Version Look Like?
+
+
+
+  If someone wrote about me a few years from now, I don’t think the story would be about one huge achievement. It would probably be about all the small things I did consistently that eventually changed where I ended up.
+
+
+
+By 2031, I wish, I had become much more confident in my skills and in the android industry I could do. I had built several projects that were more than just assignments. I had taken ideas, worked through the problems, made mistakes, fixed them, that I could proudly show to other people.
+
+
+
+My GitHub had also changed a lot. It was no longer just a place where I uploaded code for college work. It had become a record of my learning — projects, experiments, improvements, and things I had built from scratch. My portfolio could show more than now. Instead of saying that I knew certain technologies, I had real work to prove it.
+
+
+
+I had also started writing about what I learned. I published blogs and project explanations, especially about things that had confused me when I was learning them. Writing helped me understand my own knowledge better, and it also gave me a way to help someone who was just starting out.
+
+One of the biggest changes was that I had also started taking leadership more seriously. I had helped juniors and classmates, participated in technical communities, and contributed wherever I could. I learned that leadership was not always about having a title. Sometimes it was simply being the person who stepped forward when something needed to be done.
+
+
+
+Looking back, my 2.0 version was not perfect. I still made mistakes. I still had things to learn. But I had become more disciplined and much clearer about where I was going.
+
+
+
+The biggest difference was that I had stopped thinking only about what I wanted to achieve someday and started focusing on what I could build and contribute today.
+
+
+
+My 2.0 version was simply a better, more experienced version of me — someone who had turned learning into projects, projects into opportunities, and opportunities into real growth.
+
+
+
+All thanks to DMI campus by Pravin Mishra makes me realize this.
+
+
+
+#DMIByPravinMishra #AgenticAI #DevOps 
+
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/sayan-k.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7505325187123351553-VP4P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM
 
 ---
 
@@ -191,7 +233,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes.
+
+I greatly feel guilt when I copy my assignments from others given by teachers in college. In those time it feels more like achiver cause I can finish my assignment before other would have. Now, I am regretting over this for failing to grow my knowledge from that assignments.
 
 ---
 
@@ -217,16 +261,35 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+![Assignment 5 screenshot](screenshots/screenshot1.jpg)
+
+2. Deep Work — Cal Newport
+![Assignment 5 screenshot](screenshots/screenshot2.jpg)
+
+3. The 7 Habits of Highly Effective People — Stephen R. Covey
+![Assignment 5 screenshot](screenshots/screenshot3.jpg)
+
+4. Ikigai — Héctor García and Francesc Miralles
+![Assignment 5 screenshot](screenshots/screenshot4.jpg)
+
+5. Thinking, Fast and Slow - Daniel Kahneman
+![Assignment 5 screenshot](screenshots/screenshot5.jpg)
+
+6. The Lean Startup — Eric Ries
+![Assignment 5 screenshot](screenshots/screenshot6.jpg)
+
+7. Can't Hurt Me — David Goggins
+![Assignment 5 screenshot](screenshots/screenshot7.jpg)
+
+8. The Psychology of Money — Morgan Housel
+![Assignment 5 screenshot](screenshots/screenshot8.jpg)
+
+9. Forever Strong: A New, Science-Based Strategy for Aging Well - Gabrielle Lyon
+![Assignment 5 screenshot](screenshots/screenshot10.jpg)
+
+10. Talk Like TED - Carmine Gallo
+![Assignment 5 screenshot](screenshots/screenshot9.png)
 
 ---
 
@@ -255,16 +318,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learn a skill and polish it with practice.
+* Personal skill development (communication skills , knowledge base)
+* Creating new project plans in Android , if one is already there build it, review it and perfect it. 
+* Social medis community maintanence.
+* Get a good sleep at onec in a day atleast 6 hrs.
+* Play some outdoor games or online games for stress relif.
 
 ---
 
@@ -290,7 +349,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -308,7 +367,43 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 120 min deep work
+
+7:00–9:00 PM
+
+Focus on one primary technical track at a time:
+
+Android development
+
+Rule: Build > Review > Proced to next.
+Watch some tutorial and build according to the design plan, then review it and proced to the next.
+
+Saturday: 30–45 min — Job preparation
+
+2:00–3:45 PM
+
+Alternate between:
+
+Apptitude practice.
+Verbal communication.
+Reading aloud books.
+
+The goal is to become someone who can explain engineering clearly, not just do it.
+
+Sunday: 1.5–2 hr — DMI + Project
+
+Flexible, preferably afternoon/evening
+
+1 hr: DMI work
+30–60 min: Apply what you learned to your own project.
+
+Don't let DMI become something you complete only for the certificate. Extract something useful from every session and put it into your actual engineering work.
+
+Sunday: 6:00-8:00 PM - community handles
+
+Linkedin posts, github protfolio update.
+
+Sunday: 30 min — Weekly Review
 
 ---
 
@@ -316,11 +411,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Everyday 2hr for the course work and one weekly live session on Thrusday.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+One live session and atleast 12 recorded sessions. 
 
 ---
 
@@ -334,36 +429,38 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+* Discipline: Prioritize long-term goals and complete one before going to the next.
+* Accountability: Review my daily achievments at the end of each day and plan for tomorrow.
+* Entertainment: Reserve movies, Gaming for scheduled rest periods.
+* Social Media: Use social media only for learning, networking or publishing content.
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The big problem in my life is not the plan or the time the problem is to execute it. I always look for a shortcut or an easy way to do a job fast. But, it ultimately slows me down to achieve my final goal.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I foresee the result without even starting the work and later get disapointed. And I just do the planning part not the hard job to execut it. 
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Not just thinking, executing the plans.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Paste your LinkedIn post link here.
 
-`Add your URL here`
+`https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7505556299397382144-G1qw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [**Sayan Koley linkedin**  ](https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7505556299397382144-G1qw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM)
+- Blog / Medium : [**Sayan Koley Blog**](https://medium.com/@sayankoley3456/i-am-learning-to-stop-planning-and-start-doing-9213beb0c19a)  
 
 ---
 
