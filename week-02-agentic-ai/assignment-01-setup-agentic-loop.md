@@ -21,13 +21,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot1.png)
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
 Add your screenshot here.
-
+![Assignment 2 Screenshot](screenshots/assignment_1_screenshot2.png)
 ---
 
 # Task 2 — Fork and Clone the Starter Repository
@@ -41,7 +41,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot3.png)
 ---
 
 # Task 3 — Observe the Agentic Loop
@@ -55,13 +55,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot4.png)
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot5.png)
 ---
 
 # Task 4 — Share Your First Agentic AI Achievement
@@ -75,7 +75,8 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 #### Screenshot 6 — Published LinkedIn post showing the caption and shared DMI Leaderboard progress
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot6.png)
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot7.png)
 ---
 
 
@@ -92,7 +93,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/sayan-k/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 

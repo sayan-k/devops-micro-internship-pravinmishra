@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |   ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7504893678612602880-QI-7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM | https://medium.com/@sayankoley3456/my-overall-experience-in-dmi-campus-micro-internship-first-week-ec6f6c2ce73a |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/sayan-koley-819aa3329_dmi-devops-micro-internship-with-agentic-activity-7505556299397382144-G1qw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM | https://medium.com/@sayankoley3456/i-am-learning-to-stop-planning-and-start-doing-9213beb0c19a |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | https://www.linkedin.com/posts/sayan-koley-819aa3329_week-2-of-the-devops-micro-internship-dmi-activity-7506714400557338624-TxhR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM | https://medium.com/@sayankoley3456/my-week-2-as-an-trainee-in-dmi-campus-devops-micro-internship-program-8b61799e5e6e |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

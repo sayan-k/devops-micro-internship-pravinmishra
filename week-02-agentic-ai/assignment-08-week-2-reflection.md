@@ -47,14 +47,14 @@ You can publish your blog on:
 #### Screenshot 1 — Blog published and visible
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_8_screenshot1.png)
 ---
 
 ### Submission Field
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@sayankoley3456/my-week-2-as-an-trainee-in-dmi-campus-devops-micro-internship-program-8b61799e5e6e`
 
 ---
 
@@ -71,7 +71,8 @@ Share your Week 2 learning publicly on LinkedIn.
 #### Screenshot 2 — LinkedIn post published
 
 Add your screenshot here.
-
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot6.png)
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot7.png)
 ---
 
 ### Submission Field
@@ -79,14 +80,41 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of the DevOps Micro Internship (DMI) by Pravin Mishra is officially in the books, and we took a massive leap forward. My biggest takeaway this week? An AI is only as powerful as the guardrails, context, and permissions you build around it. 
+ 
+This week was all about moving from a basic Agentic Loop to building a fully customized, secure AI command center using Claude Code. Rather than just asking an AI to write code, I built an ecosystem where it acts as a specialized, safe, and context-aware engineering team. 
+
+Here are the files I implemented:
+
+Context & Memory: Set up CLAUDE.md to define strict project conventions (like "no JavaScript") and enabled persistent memory so the agent automatically recalls architectural constraints across fresh sessions. 
+
+Custom Skills: Built modular skills like /scaffold-terraform and /tf-plan, actively restricting tool access to ensure the AI only performs authorized actions. 
+
+AI Subagents: Divided complex tasks by creating specialized subagents—a Security Auditor to inspect infrastructure, a Cost Optimizer utilizing the Claude model, and a Terraform Writer for code generation.
+ 
+External Connectivity: Used the Model Context Protocol (MCP) to securely connect the agent to real-time GitHub repository data. 
+
+It's fascinating to see how combining Infrastructure as Code (Terraform) with tightly scoped AI permissions opens up fully automated, yet highly secure, cloud workflows.
+
+Climbed to #23 on the DMI leaderboard this week.
+
+Grateful to Pravin Mishra and Anjana Muthunayake for the constant support.
+
+Onto the next challenge! 🚀
+
+A note from me
+
+ I’m documenting this journey publicly because I believe learning becomes more valuable when you share what you’re actually building and what you’re learning along the way.
+
+ If you’re also exploring Agentic AI, AWS cloud, or DevOps, I’d love to connect, and learn from each other’s journey. 
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://lnkd.in/gNXAaqnE). My graded progress is public: https://lnkd.in/gTkisgMM · Start your DevOps journey: https://lnkd.in/g3hxGx4v
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/sayan-koley-819aa3329_week-2-of-the-devops-micro-internship-dmi-activity-7506714400557338624-TxhR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLrytUBKAINNScXy4_MPRWNHzV9CRwB3UM`
 
 ---
 
