@@ -21,7 +21,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
 Add your screenshot here.
-
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot1.png)
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -34,19 +34,41 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer uses Haiku because its tasks mainly require fast and efficient processing rather than complex reasoning.
+
+Haiku is generally more suitable for simple, repetitive, and cost-sensitive tasks. Since the purpose of the cost optimizer is to identify ways to reduce resource or model costs, using a more expensive model like Sonnet for every task would not be efficient.
+
+In simple words: -The cost optimizer uses Haiku because it can complete its tasks quickly and at a lower cost, while Sonnet would be unnecessary for simpler optimization work.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor does not have the Write tool because its main responsibility is to inspect, analyze, and report security problems, not to modify files.
+
+This follows the principle of least privilege, where an agent should only receive the permissions it actually needs. Without Write, the security auditor can examine code and identify vulnerabilities without accidentally changing the project.
+
+For example, if it finds a hardcoded API key, it can report the issue and suggest a solution, but it cannot directly modify the file.
+
+In simple words: The security auditor does not have Write because it should only find and report security issues, keeping the project safe from unnecessary modifications.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit because it can use the model configuration of the parent or calling agent instead of having a separate model specified.
+
+This makes the configuration more flexible and easier to maintain. If the parent agent's model changes, the tf-writer can automatically follow that configuration without needing its own model setting to be updated.
+
+For example:
+
+Parent Agent → Sonnet
+↓
+tf-writer → inherit → uses Sonnet
+
+In simple words:
+
+The tf-writer uses inherit so that it can follow the model selected by its parent agent, making the agent configuration simpler and more flexible.
 
 ---
 
@@ -54,13 +76,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot2.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot3.png)
 
 ---
 
@@ -74,13 +96,14 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot5.png)
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot6.png)
 
 ---
 
@@ -94,7 +117,10 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot7.png)
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot8.png)
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot9.png)
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot10.png)
 
 ---
 
@@ -119,7 +145,8 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot11.png)
+![Assignment 4 Screenshot](screenshots/assignment_4_screenshot12.png)
 
 ---
 
@@ -135,22 +162,22 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/sayan-k/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [✅] `.claude/agents/` folder contains all 3 agent files
+- [✅] Screenshot 2 shows correct `security-auditor.md` configuration
+- [✅] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [✅] All 3 written answers completed 
+- [✅] Security auditor executed successfully
+- [✅] Cost optimizer executed successfully
+- [✅] Security report is visible with findings
+- [✅] Cost report is visible with recommendations
+- [✅] All required screenshots added
+- [✅] GitHub repo updated with agents
 
 
 ---
