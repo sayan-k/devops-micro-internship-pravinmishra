@@ -20,8 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot1.png)
+
 ---
 
 # Task 2 — Generate the First Draft with /init
@@ -34,7 +34,6 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot2.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot3.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot4.png)
@@ -42,6 +41,7 @@ Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot6.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot7.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot8.png)
+
 
 
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot10.png)
@@ -59,8 +59,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot13.png)
+
 ---
 
 # Task 4 — Test the After State
@@ -73,16 +73,16 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot14.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot15.png)
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot16.png)
+
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot17.png)
+
 ---
 
 # Task 5 — Commit and push your changes to your fork in GitHub
@@ -95,8 +95,8 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot18.png)
+
 ---
 
 # Task 6 — Share Your Progress on WhatsApp
@@ -109,8 +109,8 @@ Celebrate your progress and share your DMI Leaderboard achievement on WhatsApp.
 
 #### Screenshot 7 — Your shared WhatsApp Status or community message showing the automatically generated leaderboard rank and personal progress link
 
-Add your screenshot here.
 ![Assignment 2 Screenshot](screenshots/assignment_2_screenshot19.png)
+
 ---
 
 # Submission Instructions
