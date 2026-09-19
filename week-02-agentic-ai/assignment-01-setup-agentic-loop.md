@@ -27,7 +27,7 @@ Add your screenshot here.
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
 Add your screenshot here.
-![Assignment 2 Screenshot](screenshots/assignment_1_screenshot2.png)
+![Assignment 1 Screenshot](screenshots/assignment_1_screenshot2.png)
 ---
 
 # Task 2 — Fork and Clone the Starter Repository
@@ -99,12 +99,12 @@ Paste your forked repository URL here:
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [✅] Claude Code CLI installed successfully
+- [✅] Claude Code authenticated successfully
+- [✅] Repository forked successfully
+- [✅] Repository cloned and opened in VS Code
+- [✅] All required screenshots added
+- [✅] GitHub repository URL provided
 
 ---
 
