@@ -46,8 +46,8 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
 ![Assignment 1 Screenshot](screenshots/assignment_8_screenshot1.png)
+
 ---
 
 ### Submission Field
@@ -70,9 +70,9 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
 ![Assignment 1 Screenshot](screenshots/assignment_1_screenshot6.png)
 ![Assignment 1 Screenshot](screenshots/assignment_1_screenshot7.png)
+
 ---
 
 ### Submission Field
